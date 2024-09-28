@@ -1,0 +1,2 @@
+Scancode = 1
+Scancode = 81
