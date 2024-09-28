@@ -1,0 +1,69 @@
+/* XPM */
+static const xpm_row_t mouse1[] = {/* XPM */
+"25 25 3 1 ",
+"  c None",
+". c #ffffff",
+"x c #000000",
+/* pixels */
+"..                       ",
+"....                     ",
+" .xx...                  ",
+" .xxxx...                ",
+"  .xxxxxx..              ",
+"  .xxxxxxxx...           ",
+"   .xxxxxxxxx...         ",
+"   .xxxxxxxxxxxx..       ",
+"   ..xxxxxxxxxxxxx...    ",
+"    .xxxxxxxxxxxxxx..    ",
+"    .xxxxxxxxxxxxx..     ",
+"     .xxxxxxxxxxx..      ",
+"     .xxxxxxxxxx.        ",
+"      .xxxxxxxx..        ",
+"      .xxxxxxxxx..       ",
+"      ..xxxxx.xxx..      ",
+"       .xxxx...xxx..     ",
+"       .xxx.. ..xxx..    ",
+"        .x..   ..xxx..   ",
+"        ...     ..xxx..  ",
+"         .       ..xxx.. ",
+"                  ..xxx..",
+"                   ..xx..",
+"                    .... ",
+"                     ..  "
+};
+
+
+/* XPM */
+static const xpm_row_t mouse2[] = {
+/* columns rows colors chars-per-pixel */
+"25 25 3 1 ",
+"  c None",
+". c #010101",
+"o c #ffffff"
+/* pixels */
+"..                       ",
+"....                     ",
+" .oo...                  ",
+" .oooo...                ",
+"  .oooooo..              ",
+"  .oooooooo...           ",
+"   .ooooooooo...         ",
+"   .oooooooooooo..       ",
+"   ..ooooooooooooo...    ",
+"    .oooooooooooooo..    ",
+"    .ooooooooooooo..     ",
+"     .ooooooooooo..      ",
+"     .oooooooooo.        ",
+"      .oooooooo..        ",
+"      .ooooooooo..       ",
+"      ..ooooo.ooo..      ",
+"       .oooo...ooo..     ",
+"       .ooo.. ..ooo..    ",
+"        .o..   ..ooo..   ",
+"        ...     ..ooo..  ",
+"         .       ..ooo.. ",
+"                  ..ooo..",
+"                   ..oo..",
+"                    .... ",
+"                     ..  "
+};

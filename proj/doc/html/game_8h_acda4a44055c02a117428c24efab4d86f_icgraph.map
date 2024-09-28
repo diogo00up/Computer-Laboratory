@@ -1,0 +1,6 @@
+<map id="draw_pacman" name="draw_pacman">
+<area shape="rect" id="node1" title="Draws a pacman based on its direction." alt="" coords="479,5,581,32"/>
+<area shape="rect" id="node2" href="$game_8c.html#a649a26d3c9953d9f2af863e859e0c40d" title="Responsible for receiving the interrupts, calling the drawing functions. Main game function Here we h..." alt="" coords="163,5,248,32"/>
+<area shape="rect" id="node4" href="$game_8c.html#a712e59662c087d8730ce44ce89993d2f" title="Controls where a user clicks on the screen." alt="" coords="296,31,431,57"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title="Here we call the main functionalities implemented." alt="" coords="5,5,115,32"/>
+</map>

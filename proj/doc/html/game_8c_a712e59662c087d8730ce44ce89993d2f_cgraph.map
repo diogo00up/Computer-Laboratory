@@ -1,0 +1,9 @@
+<map id="game_mouse_click" name="game_mouse_click">
+<area shape="rect" id="node1" title="Controls where a user clicks on the screen." alt="" coords="5,132,140,159"/>
+<area shape="rect" id="node2" href="$game_8c.html#ad5b4d5bb4cb1f5a41075afa1ecc3ae98" title="Draws the background." alt="" coords="188,5,311,32"/>
+<area shape="rect" id="node3" href="$game_8c.html#a1fcc27cba01c6844043d007f1e0c3b7f" title="Draws a coin." alt="" coords="209,56,289,83"/>
+<area shape="rect" id="node4" href="$game_8c.html#ae8023454c26fa9049efe176fabc251b3" title="draws the number of lives the user currently has" alt="" coords="209,107,290,133"/>
+<area shape="rect" id="node5" href="$game_8c.html#acda4a44055c02a117428c24efab4d86f" title="Draws a pacman based on its direction." alt="" coords="198,157,301,184"/>
+<area shape="rect" id="node6" href="$game_8c.html#a80af57db2938c468835bd5530bee459b" title="draws the score during the game" alt="" coords="205,208,293,235"/>
+<area shape="rect" id="node7" href="$game_8c.html#abdc1d0785f9e5f790a2dca5910424a52" title="resets the board content when restarting the game" alt="" coords="204,259,295,285"/>
+</map>

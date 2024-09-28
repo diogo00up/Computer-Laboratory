@@ -1,0 +1,5 @@
+<map id="reset_pacman_ghost_values" name="reset_pacman_ghost_values">
+<area shape="rect" id="node1" title="resets the pacman ad ghosts atributes when they collide in game" alt="" coords="296,5,439,47"/>
+<area shape="rect" id="node2" href="$game_8c.html#a649a26d3c9953d9f2af863e859e0c40d" title="Responsible for receiving the interrupts, calling the drawing functions. Main game function Here we h..." alt="" coords="163,13,248,39"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title="Here we call the main functionalities implemented." alt="" coords="5,13,115,39"/>
+</map>
